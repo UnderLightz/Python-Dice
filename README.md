@@ -1,8 +1,9 @@
 # Project Title:
-Python Dice Simulator
+Roll Master 3000
 
 ## Description:
-Developed a dice simulation program using Python. The program allows users to simulate the rolling of dice, generating random outcomes and displaying the results.
+Developed a dice simulation program using Python.
+The program allows users to simulate the rolling of dice, generating random outcomes and displaying the results.
 
 ## Technologies Used:
 Python, Random Library, String Library, Object-Oriented Programming
