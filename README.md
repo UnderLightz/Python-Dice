@@ -1,5 +1,4 @@
-# Project Title:
-Roll Master 3000
+# Project Title: Roll Master 3000
 
 ## Description:
 Developed a dice simulation program using Python.
