@@ -15,7 +15,7 @@ Conducted thorough testing to verify the randomness and accuracy of the dice rol
 
 # Challenges and Solutions:
 
-# Challenge:
+## Challenge:
 Ensuring the randomness and fairness of the dice rolls.
-# Solution:
+## Solution:
 Utilized Python's random library to generate truly random outcomes and performed statistical tests to validate the fairness of the simulation.
